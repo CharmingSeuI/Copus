@@ -1,9 +1,11 @@
 [submodule "Copus-B.E"]
 	path = Copus-B.E
 	url = https://github.com/CharmingSeuI/Copus-B.E
+	branch = Develop
 [submodule "Copus-F.E"]
 	path = Copus-F.E
 	url = https://github.com/CharmingSeuI/Copus-F.E
+	branch = Feature_changeExplorePageUIAddingSidebar
 [submodule "parser"]
 	path = parser
 	url = https://github.com/CharmingSeuI/parser
